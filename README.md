@@ -39,5 +39,9 @@ Here we set our images, forms, inputs, tables, videos, audio elements, and i fra
 - [Presentation Slides](https://docs.google.com/presentation/d/1j_i5pGPB5lHbgr4fpdUDheRBv2kAeOk_yhfd1Uc2f3s/edit?usp=sharing)
 - [Responsive Media Content - Code Example](http://jsfiddle.net/flatiron_school/HP6A3/1/)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-responsive-media/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-responsive-media/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/responsive-media'>Responsive Media</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Responsive Media</p>
